@@ -1,0 +1,1 @@
+This project shows how to redirect files and outputs
